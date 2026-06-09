@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm SUDHARSHAN N</h1>
 <h3 align="center">AI & Data Science Student | Full Stack Enthusiast</h3>
 
@@ -57,4 +57,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sudharshan-45&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-```
+
