@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=its-sudharshan-45&label=Profile%20Views&color=0e75b6&style=flat" alt="its-sudharshan-45" />
 </p>
 
-- 🔭 I’m currently pursuing **B.Tech - Artificial Intelligence & Data Science** at **KPR Institute of Engineering and Technology**
+- 🔭 I’m currently pursuing **B.TECH - AIDS** at **KPR Institute of Engineering and Technology**
 
 - 🌱 I’m currently learning **AI, Full Stack Development, and DSA**
 
@@ -46,15 +46,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-sudharshan-45&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-sudharshan-45&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sudharshan-45&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
