@@ -44,11 +44,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-sudharshan-45&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-</p>
 
