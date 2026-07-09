@@ -20,7 +20,7 @@
 
 - 🌐 Portfolio: **[Explore My Digital Presence](https://sudharshan-portfolio-ruby.vercel.app/)**
 
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1a3p7-eNpxSNbBtOQ5wAD2UhTTkkS3Gsk/view?usp=drive_link)**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1K9Bf4R4Hw7zOAeMNSC9v6cOUGHhCC5dA/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 
