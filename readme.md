@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/header.svg" alt="Sudharshan N - AI & Full Stack Developer" width="100%">
+  <img src="assets/header.svg" alt="Sudharshan N - AI & Full Stack Developer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/btn-portfolio.svg" alt="Portfolio" height="40"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/btn-leetcode.svg" alt="LeetCode" height="40"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/btn-email.svg" alt="Email" height="40"></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+  <a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="40"></a>
 </p>
 
 ## About
@@ -21,8 +21,8 @@ AI & Data Science undergraduate at **KPR Institute of Engineering and Technology
 ## Featured work
 
 <p>
-  <a href="https://github.com/its-sudharshan-45/YOUR-REWORKCV-REPO"><img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/card-1.svg" alt="ReworkCV" width="49%"></a>
-  <a href="https://github.com/its-sudharshan-45/YOUR-SEMESTERSWAP-REPO"><img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/card-2.svg" alt="SemesterSwap" width="49%"></a>
+  <a href="https://github.com/its-sudharshan-45/YOUR-REWORKCV-REPO"><img src="assets/card-1.svg" alt="ReworkCV" width="49%"></a>
+  <a href="https://github.com/its-sudharshan-45/YOUR-SEMESTERSWAP-REPO"><img src="assets/card-2.svg" alt="SemesterSwap" width="49%"></a>
 </p>
 
 ## Professional Experience
@@ -40,27 +40,39 @@ Implemented secure JWT/OAuth 2.0 authentication with role-based access control a
 ### 💻 I code in
 
 <p>
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/python.png" width="46" height="46" title="Python" alt="Python">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/java.png" width="46" height="46" title="Java" alt="Java">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/javascript.png" width="46" height="46" title="JavaScript" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/react.png" width="46" height="46" title="React" alt="React">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/node-js.png" width="46" height="46" title="Node.js" alt="Node.js">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/mysql.png" width="46" height="46" title="MySQL" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/mongodb.png" width="46" height="46" title="MongoDB" alt="MongoDB">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/html5.png" width="46" height="46" title="HTML5" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/css3.png" width="46" height="46" title="CSS3" alt="CSS3">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/bootstrap.png" width="46" height="46" title="Bootstrap" alt="Bootstrap">
+  <img src="assets/tech/python.png" width="46" height="46" title="Python" alt="Python">
+  <img src="assets/tech/java.png" width="46" height="46" title="Java" alt="Java">
+  <img src="assets/tech/c.png" width="46" height="46" title="C" alt="C">
+  <img src="assets/tech/cpp.png" width="46" height="46" title="C++" alt="C++">
+  <img src="assets/tech/javascript.png" width="46" height="46" title="JavaScript" alt="JavaScript">
+  <img src="assets/tech/typescript.png" width="46" height="46" title="TypeScript" alt="TypeScript">
+  <img src="assets/tech/react.png" width="46" height="46" title="React" alt="React">
+  <img src="assets/tech/node-js.png" width="46" height="46" title="Node.js" alt="Node.js">
+  <img src="assets/tech/spring.png" width="46" height="46" title="Spring" alt="Spring">
+  <img src="assets/tech/graphql.png" width="46" height="46" title="GraphQL" alt="GraphQL">
+  <img src="assets/tech/mysql.png" width="46" height="46" title="MySQL" alt="MySQL">
+  <img src="assets/tech/mongodb.png" width="46" height="46" title="MongoDB" alt="MongoDB">
+  <img src="assets/tech/firebase.png" width="46" height="46" title="Firebase" alt="Firebase">
+  <img src="assets/tech/tensorflow.png" width="46" height="46" title="TensorFlow" alt="TensorFlow">
+  <img src="assets/tech/html5.png" width="46" height="46" title="HTML5" alt="HTML5">
+  <img src="assets/tech/css3.png" width="46" height="46" title="CSS3" alt="CSS3">
+  <img src="assets/tech/sass.png" width="46" height="46" title="Sass" alt="Sass">
+  <img src="assets/tech/bootstrap.png" width="46" height="46" title="Bootstrap" alt="Bootstrap">
+  <img src="assets/tech/arduino.png" width="46" height="46" title="Arduino" alt="Arduino">
 </p>
 
 ### 🛠️ Tools I use
 
 <p>
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/vs-code.png" width="46" height="46" title="VS Code" alt="VS Code">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/eclipse.png" width="46" height="46" title="Eclipse" alt="Eclipse">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/git.png" width="46" height="46" title="Git" alt="Git">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/notion.png" width="46" height="46" title="Notion" alt="Notion">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/figma.png" width="46" height="46" title="Figma" alt="Figma">
-  <img src="https://raw.githubusercontent.com/its-sudharshan-45/its-sudharshan-45/main/netlify.png" width="46" height="46" title="Netlify" alt="Netlify">
+  <img src="assets/tech/vs-code.png" width="46" height="46" title="VS Code" alt="VS Code">
+  <img src="assets/tech/pycharm.png" width="46" height="46" title="PyCharm" alt="PyCharm">
+  <img src="assets/tech/eclipse.png" width="46" height="46" title="Eclipse" alt="Eclipse">
+  <img src="assets/tech/git.png" width="46" height="46" title="Git" alt="Git">
+  <img src="assets/tech/anaconda.png" width="46" height="46" title="Anaconda" alt="Anaconda">
+  <img src="assets/tech/notion.png" width="46" height="46" title="Notion" alt="Notion">
+  <img src="assets/tech/figma.png" width="46" height="46" title="Figma" alt="Figma">
+  <img src="assets/tech/photoshop.png" width="46" height="46" title="Photoshop" alt="Photoshop">
+  <img src="assets/tech/netlify.png" width="46" height="46" title="Netlify" alt="Netlify">
 </p>
 
 ## GitHub contribution graph
