@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" fill="none" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<style>
+.st{fill:#f0f6fc;font-size:23px;font-weight:700}.sd{fill:#9da7b3;font-size:12.5px}
+.sn{fill:#f0f6fc;font-size:21px;font-weight:700}.sl{fill:#8b949e;font-size:10.5px}
+.sm{fill:#6e7681;font-size:10.5px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.sg{fill:#c9d1d9;font-size:9.5px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.8px}
+.sk{fill:#c9d1d9;font-size:10px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+@keyframes sbd{to{stroke-dashoffset:-1480}}
+@keyframes sup{0%{transform:translateY(0);opacity:0}20%{opacity:.8}100%{transform:translateY(-110px);opacity:0}}
+@keyframes slv{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes sdr{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,14px)}}
+@keyframes ssh{0%{transform:translateX(-120px)}100%{transform:translateX(560px)}}
+.sbd{stroke-dasharray:150 1330;animation:sbd 5s linear infinite}
+.spt{animation:sup 4s linear infinite}.slv{animation:slv 1.4s infinite}.sgl{animation:sdr 7s ease-in-out infinite}
+.ssh{animation:ssh 5s ease-in-out infinite}
+@keyframes sfl{to{stroke-dashoffset:-20}}
+@keyframes spu{0%{r:19;opacity:.8}100%{r:44;opacity:0}}
+@keyframes sbk{0%,100%{opacity:.4}50%{opacity:1}}
+.sln{stroke:#388bfd;stroke-width:1.3;stroke-dasharray:4 6;animation:sfl 1.1s linear infinite}
+.spl{fill:none;stroke:#3fb950;stroke-width:1.5;animation:spu 2.4s ease-out infinite}
+.snd{animation:sbk 2.4s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="sG" x1="0" x2="1"><stop offset="0" stop-color="#a371f7"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+<pattern id="sgr" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#1a222c" stroke-width="1"/></pattern>
+<linearGradient id="ssg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+
+</defs>
+<rect x=".5" y=".5" width="439" height="299" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="16" y="16" width="408" height="124" rx="10" fill="#0f151c"/><rect x="16" y="16" width="408" height="124" rx="10" fill="url(#sgr)"/>
+<circle class="sgl" cx="90" cy="50" r="60" fill="#a371f7" opacity=".10"/>
+<g fill="#a371f7"><circle class="spt" cx="60" cy="130" r="1.6"/><circle class="spt" cx="150" cy="130" r="1.3" style="animation-delay:1.2s"/><circle class="spt" cx="250" cy="130" r="1.6" style="animation-delay:2.4s"/><circle class="spt" cx="330" cy="130" r="1.3" style="animation-delay:.6s"/><circle class="spt" cx="390" cy="130" r="1.5" style="animation-delay:1.9s"/></g>
+<g transform="translate(14,0)"><g fill="none"><path class="sln" d="M70 44L212 80"/><path class="sln" d="M70 120L212 80"/><path class="sln" d="M354 44L212 80"/><path class="sln" d="M354 120L212 80"/></g>
+<circle r="4.500" fill="#d29922"><animateMotion dur="3s" repeatCount="indefinite" path="M70 44L212 80L354 120"/></circle>
+<circle r="4.500" fill="#3fb950"><animateMotion dur="3s" begin="1.5s" repeatCount="indefinite" path="M354 44L212 80L70 120"/></circle>
+<g fill="#161b22" stroke="#388bfd" stroke-width="1.5"><circle class="snd" cx="70" cy="44" r="10"/><circle class="snd" cx="70" cy="120" r="10" style="animation-delay:.6s"/><circle class="snd" cx="354" cy="44" r="10" style="animation-delay:1.2s"/><circle class="snd" cx="354" cy="120" r="10" style="animation-delay:1.8s"/></g>
+<g stroke="#388bfd" stroke-width="1.3" fill="none"><path d="M70 40a2.500 2.500 0 1 0 .1 0M65.500 49c1-4 8-4 9 0"/><path d="M70 116a2.500 2.500 0 1 0 .1 0M65.500 125c1-4 8-4 9 0"/><path d="M354 40a2.500 2.500 0 1 0 .1 0M349.500 49c1-4 8-4 9 0"/><path d="M354 116a2.500 2.500 0 1 0 .1 0M349.500 125c1-4 8-4 9 0"/></g>
+<circle class="spl" cx="212" cy="80" r="18"/><circle class="spl" cx="212" cy="80" r="18" style="animation-delay:1.2s"/>
+<circle cx="212" cy="80" r="19" fill="#0d1f14" stroke="#3fb950" stroke-width="1.6"/>
+<path d="M212 69l9 3.500v6.500c0 5.500-4 9.500-9 11-5-1.500-9-5.500-9-11v-6.500z" stroke="#3fb950" stroke-width="1.7" stroke-linejoin="round"/>
+<path d="M207.500 80l3.200 3.200 5.800-6.200" stroke="#3fb950" stroke-width="1.7" stroke-linecap="round"/>
+<rect x="142" y="106" width="140" height="20" rx="10" fill="#0d1f14" stroke="#238636"/><text x="212" y="119.500" text-anchor="middle" class="sk" style="fill:#7ee787;font-size:9.5px">@kpriet.ac.in verified</text></g>
+<rect class="ssh" x="0" y="16" width="120" height="124" fill="url(#ssg)" transform="skewX(-15)"/>
+<text x="32" y="176" class="st">SemesterSwap</text>
+<rect x="308" y="158" width="116" height="22" rx="11" fill="#161b22" stroke="url(#sG)"/><text x="366.0" y="173" text-anchor="middle" class="sg">MARKETPLACE</text>
+<text x="32" y="199" class="sd">Trust-first, college-exclusive student marketplace.</text>
+<text x="32" y="236" class="sn">7</text><text x="32" y="253" class="sl">AI services · pricing, fraud, search</text>
+<text x="232" y="236" class="sn">3-tier</text><text x="232" y="253" class="sl">AI fallback chain</text>
+<path d="M32 266h376" stroke="#21262d"/>
+<text x="32" y="286" class="sm">React · FastAPI · Supabase · LLM Integration</text>
+<rect x="338" y="272" width="86" height="20" rx="10" fill="#0d1f14" stroke="#238636"/><circle class="slv" cx="352" cy="282" r="3.2" fill="#3fb950"/><text x="362" y="285.500" class="sg" style="fill:#7ee787;font-size:9px">LIVE DEMO</text>
+<rect class="sbd" x="1" y="1" width="438" height="298" rx="14" stroke="url(#sG)" stroke-width="2"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" fill="none" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<style>
+.rt{fill:#f0f6fc;font-size:23px;font-weight:700}.rd{fill:#9da7b3;font-size:12.5px}
+.rn{fill:#f0f6fc;font-size:21px;font-weight:700}.rl{fill:#8b949e;font-size:10.5px}
+.rm{fill:#6e7681;font-size:10.5px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.rg{fill:#c9d1d9;font-size:9.5px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.8px}
+.rk{fill:#c9d1d9;font-size:10px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+@keyframes rbd{to{stroke-dashoffset:-1480}}
+@keyframes rup{0%{transform:translateY(0);opacity:0}20%{opacity:.8}100%{transform:translateY(-110px);opacity:0}}
+@keyframes rlv{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes rdr{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,14px)}}
+@keyframes rsh{0%{transform:translateX(-120px)}100%{transform:translateX(560px)}}
+.rbd{stroke-dasharray:150 1330;animation:rbd 5s linear infinite}
+.rpt{animation:rup 4s linear infinite}.rlv{animation:rlv 1.4s infinite}.rgl{animation:rdr 7s ease-in-out infinite}
+.rsh{animation:rsh 5s ease-in-out infinite}
+@keyframes rsc{}
+@keyframes rsn{0%,100%{transform:translateY(0)}50%{transform:translateY(86px)}}
+@keyframes rrg{0%{stroke-dashoffset:182}55%,100%{stroke-dashoffset:16}}
+@keyframes rpp{0%,18%{opacity:0;transform:translateX(-8px)}34%,88%{opacity:1;transform:none}100%{opacity:0}}
+@keyframes rfw{to{stroke-dashoffset:-14}}
+.rsn{animation:rsn 3.6s ease-in-out infinite}.rrg{stroke-dasharray:182;animation:rrg 3.6s ease-out infinite}
+.rfw{animation:rfw .6s linear infinite}
+.rc1{animation:rpp 3.6s infinite}.rc2{animation:rpp 3.6s .4s infinite}.rc3{animation:rpp 3.6s .8s infinite}
+</style>
+<defs>
+<linearGradient id="rG" x1="0" x2="1"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+<linearGradient id="rsl" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#3fb950" stop-opacity="0"/><stop offset="1" stop-color="#3fb950" stop-opacity=".5"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="439" height="299" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="16" y="16" width="408" height="124" rx="10" fill="#0f151c"/><rect x="16" y="16" width="408" height="124" rx="10" fill="url(#rgr)"/>
+<circle class="rgl" cx="90" cy="50" r="60" fill="#3fb950" opacity=".10"/>
+<g fill="#3fb950"><circle class="rpt" cx="60" cy="130" r="1.6"/><circle class="rpt" cx="150" cy="130" r="1.3" style="animation-delay:1.2s"/><circle class="rpt" cx="250" cy="130" r="1.6" style="animation-delay:2.4s"/><circle class="rpt" cx="330" cy="130" r="1.3" style="animation-delay:.6s"/><circle class="rpt" cx="390" cy="130" r="1.5" style="animation-delay:1.9s"/></g>
+<g transform="translate(14,0)"><g style="animation:rsc 3.6s ease-in-out infinite"></g>
+<rect x="36" y="30" width="96" height="100" rx="7" fill="#161b22" stroke="#30363d"/>
+<rect x="46" y="40" width="38" height="5" rx="2.500" fill="#388bfd"/>
+<g fill="#2b3340"><rect x="46" y="52" width="76" height="3" rx="1.500"/><rect x="46" y="61" width="62" height="3" rx="1.500"/><rect x="46" y="70" width="72" height="3" rx="1.500"/><rect x="46" y="84" width="76" height="3" rx="1.500"/><rect x="46" y="93" width="54" height="3" rx="1.500"/><rect x="46" y="102" width="68" height="3" rx="1.500"/><rect x="46" y="111" width="46" height="3" rx="1.500"/></g>
+<g class="rsn"><rect x="36" y="28" width="96" height="14" fill="url(#rsl)"/><rect x="36" y="41" width="96" height="2" fill="#3fb950"/></g>
+<path class="rfw" d="M140 80h22" stroke="#3fb950" stroke-dasharray="3 4"/>
+<g class="rc1"><rect x="168" y="38" width="104" height="24" rx="12" fill="#0d1f14" stroke="#238636"/><circle cx="182" cy="50" r="3.500" fill="#3fb950"/><text x="194" y="54" class="rk">skills match</text></g>
+<g class="rc2"><rect x="168" y="68" width="104" height="24" rx="12" fill="#0d1f14" stroke="#238636"/><circle cx="182" cy="80" r="3.500" fill="#3fb950"/><text x="194" y="84" class="rk">experience</text></g>
+<g class="rc3"><rect x="168" y="98" width="104" height="24" rx="12" fill="#2a1d0a" stroke="#9e6a03"/><circle cx="182" cy="110" r="3.500" fill="#d29922"/><text x="194" y="114" class="rk">gap: keywords</text></g>
+<circle cx="344" cy="80" r="29" stroke="#21262d" stroke-width="7"/>
+<circle class="rrg" cx="344" cy="80" r="29" stroke="url(#rG)" stroke-width="7" stroke-linecap="round" transform="rotate(-90 344 80)"/>
+<text x="344" y="85" text-anchor="middle" fill="#f0f6fc" font-size="14" font-weight="700">ATS</text>
+<text x="344" y="127" text-anchor="middle" class="rm">readiness score</text></g>
+<rect class="rsh" x="0" y="16" width="120" height="124" fill="url(#rsg)" transform="skewX(-15)"/>
+<text x="32" y="176" class="rt">ReworkCV</text>
+<rect x="332" y="158" width="92" height="22" rx="11" fill="#161b22" stroke="url(#rG)"/><text x="378.0" y="173" text-anchor="middle" class="rg">AI · ATS</text>
+<text x="32" y="199" class="rd"><linearGradient id="rsl" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#3fb950" stop-opacity="0"/><stop offset="1" stop-color="#3fb950" stop-opacity=".5"/></linearGradient><pattern id="rgr" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#1a222c" stroke-width="1"/></pattern>
+<linearGradient id="rsg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+Resume intelligence &amp; ATS optimization platform.</text>
+<text x="32" y="236" class="rn">6</text><text x="32" y="253" class="rl">weighted scoring sections</text>
+<text x="232" y="236" class="rn">4</text><text x="232" y="253" class="rl">AI providers · auto-failover</text>
+<path d="M32 266h376" stroke="#21262d"/>
+<text x="32" y="286" class="rm">React · Node.js · Supabase · LLM APIs</text>
+<rect x="338" y="272" width="86" height="20" rx="10" fill="#0d1f14" stroke="#238636"/><circle class="rlv" cx="352" cy="282" r="3.2" fill="#3fb950"/><text x="362" y="285.500" class="rg" style="fill:#7ee787;font-size:9px">LIVE DEMO</text>
+<rect class="rbd" x="1" y="1" width="438" height="298" rx="14" stroke="url(#rG)" stroke-width="2"/>
+</svg>
