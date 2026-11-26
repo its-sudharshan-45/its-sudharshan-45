@@ -1,50 +1,68 @@
-
-<h1 align="center">Hi 👋, I'm SUDHARSHAN N</h1>
-<h3 align="center">AI & Data Science Student | Full Stack Enthusiast</h3>
+<p align="center">
+  <img src="assets/header.svg" alt="Sudharshan N - AI & Full Stack Developer" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-sudharshan-45&label=Profile%20Views&color=0e75b6&style=flat" alt="its-sudharshan-45" />
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+  <a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="40"></a>
 </p>
 
-- 🔭 I’m currently pursuing **B.TECH - AIDS** at **KPR Institute of Engineering and Technology**
+## About
 
-- 🌱 I’m currently learning **AI, Full Stack Development, and DSA**
+AI & Data Science undergraduate at **KPR Institute of Engineering and Technology**, curious about how intelligent systems work and how technology solves real-world problems. I turn ideas into practical projects, from AI-powered apps and LLM-based systems to full-stack platforms, always focused on understanding the engineering behind what I build.
 
-- 👯 Passionate about collaborating on innovative projects, leveraging teamwork to foster creativity, accelerate learning, and create impactful solutions.
+- **Building:** AI-powered applications, full-stack products, and intelligent systems
+- **Exploring:** LLMs, RAG, AI agents, and scalable software architecture
+- **Focused on:** Strengthening problem-solving, software engineering, and practical AI skills
+- **Open to:** Internships, collaborative projects, and hackathons
 
-- 💬 Ask me about **AI and Full Stack Development**
+## Featured work
 
-- 📫 How to reach me: **its.sudharshan.in@gmail.com**
-
-- ⚡ Fun fact: **I spend more time naming variables than writing code 😄**
-
-- 🌐 Portfolio: **[Explore My Digital Presence](https://sudharshan-portfolio-ruby.vercel.app/)**
-
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1cBMUC_DNnfr6KIFDtm6qHcAwgAmXEbQk/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://github.com/its-sudharshan-45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="its-sudharshan-45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudharshan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudharshan45" height="30" width="40" /></a>
-<a href="https://instagram.com/___.kit__kat.____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.kit__kat.____" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/its_sudharshan_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="its_sudharshan_2" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/its_sudharshan_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shan45" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/sudharshancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudharshan45" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REWORKCV-REPO"><img src="assets/card-1.svg" alt="ReworkCV" width="49%"></a>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-SEMESTERSWAP-REPO"><img src="assets/card-2.svg" alt="SemesterSwap" width="49%"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Professional Experience
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bootstrap,react,nodejs,express,fastapi,mongodb,mysql,postgres,git" />
+**Full Stack Developer Intern (MERN)** · Codec Technologies<br>
+<sub>Nov 2025 – Dec 2025</sub>
+
+Built responsive React.js and Bootstrap interfaces backed by Node.js and Express.js REST APIs with MongoDB, connected through asynchronous communication. Secured the applications with JWT/OAuth authentication and Git-based version control, shipping them end to end through full-stack deployment workflows.
+
+**Full Stack Developer Intern** · OneDot Communications<br>
+<sub>Dec 2025 – Jan 2026</sub>
+
+Implemented secure JWT/OAuth 2.0 authentication with role-based access control and built Node.js and Express.js REST APIs integrated with React frontends. Deployed on Vercel and Render with CI/CD workflows, optimizing frontend performance and backend queries for reliable, production-ready delivery.
+
+### 💻 I code in
+
+<p>
+  <img src="assets/tech/python.png" width="46" height="46" title="Python" alt="Python">
+  <img src="assets/tech/java.png" width="46" height="46" title="Java" alt="Java">
+  <img src="assets/tech/javascript.png" width="46" height="46" title="JavaScript" alt="JavaScript">
+  <img src="assets/tech/react.png" width="46" height="46" title="React" alt="React">
+  <img src="assets/tech/node-js.png" width="46" height="46" title="Node.js" alt="Node.js">
+  <img src="assets/tech/mysql.png" width="46" height="46" title="MySQL" alt="MySQL">
+  <img src="assets/tech/mongodb.png" width="46" height="46" title="MongoDB" alt="MongoDB">
+  <img src="assets/tech/html5.png" width="46" height="46" title="HTML5" alt="HTML5">
+  <img src="assets/tech/css3.png" width="46" height="46" title="CSS3" alt="CSS3">
+  <img src="assets/tech/bootstrap.png" width="46" height="46" title="Bootstrap" alt="Bootstrap">
 </p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=scikitlearn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
+### 🛠️ Tools I use
+
+<p>
+  <img src="assets/tech/vs-code.png" width="46" height="46" title="VS Code" alt="VS Code">
+  <img src="assets/tech/eclipse.png" width="46" height="46" title="Eclipse" alt="Eclipse">
+  <img src="assets/tech/git.png" width="46" height="46" title="Git" alt="Git">
+  <img src="assets/tech/notion.png" width="46" height="46" title="Notion" alt="Notion">
+  <img src="assets/tech/figma.png" width="46" height="46" title="Figma" alt="Figma">
+  <img src="assets/tech/netlify.png" width="46" height="46" title="Netlify" alt="Netlify">
 </p>
 
+## GitHub contribution graph
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=172030&color=a3b09a&line=b18bb1&point=c6797e&area_color=b18bb1&area=true&hide_border=true" alt="Sudharshan N contribution graph" width="100%">
