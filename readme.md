@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://sudharshan-portfolio-ruby.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40"></a>
-  <a href="https://www.linkedin.com/in/sudharshan45/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
-  <a href="https://leetcode.com/u/its_sudharshan_dev/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>
-  <a href="mailto:its.sudharshan.in@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="40"></a>
+  <a href="https://sudharshan-portfolio-ruby.vercel.app/" target="_blank"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40"></a>
+  <a href="https://www.linkedin.com/in/sudharshan45/" target="_blank"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+  <a href="https://leetcode.com/u/its_sudharshan_dev/" target="_blank"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>
+  <a href="mailto:its.sudharshan.in@gmail.com" target="_blank"><img src="assets/btn-email.svg" alt="Email" height="40"></a>
 </p>
 
 ## About
@@ -21,8 +21,8 @@ AI & Data Science undergraduate at **KPR Institute of Engineering and Technology
 ## Featured work
 
 <p>
-  <a href="https://reworkcv-kappa.vercel.app/"><img src="assets/card-1.svg" alt="ReworkCV" width="49%"></a>
-  <a href="https://semester-swap-seven.vercel.app/"><img src="assets/card-2.svg" alt="SemesterSwap" width="49%"></a>
+  <a href="https://reworkcv-kappa.vercel.app/" target="_blank"><img src="assets/card-1.svg" alt="ReworkCV" width="49%"></a>
+  <a href="https://semester-swap-seven.vercel.app/" target="_blank"><img src="assets/card-2.svg" alt="SemesterSwap" width="49%"></a>
 </p>
 
 ## Professional Experience
